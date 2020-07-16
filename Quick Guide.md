@@ -36,7 +36,7 @@ Hereinafter, "terminal" refers to "Powershell" in Windows or "Terminal" in Mac O
 2. MATLAB 2018a.
 3. R 4.0.2 + RStudio Server 1.3.959
 
-##Useful softwares for MATLAB GUI
+## Useful softwares for MATLAB GUI
 1. Xming: https://sourceforge.net/projects/xming/
 2. PuTTY: https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
