@@ -24,7 +24,7 @@ To login, do the following steps:
 
 1. Open the terminal. Type `ssh <username>@202.121.180.27 -p 996` in the terminal and press Enter button to login. For instance, `ssh abc@202.121.180.27 -p 996` (note: do not type "<" and ">" in the terminal. If you type the wrong characters, press C key while holding down the Ctrl key to abort.)
 2. Type the password and press Enter. For the first time you login, please type the default password: `123`. (Note: since it is a password, you will not see what you type.) 
-3. For the first time you login, please change the default password using the command `passwd`. The terminal will ask for the current password. Type `123`. Then, the terminal will ask for the new password. Type your new password to replace the old one.
+3. For the first time you login, please **change the default password** using the command `passwd`. The terminal will ask for the current password. Type `123`. Then, the terminal will ask for the new password. Type your new password to replace the old one. This is very important because your weak password will expose the whole Linux server to danger.
 
 To logout, type `exit`.
 
